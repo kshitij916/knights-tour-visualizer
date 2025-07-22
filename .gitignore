@@ -1,0 +1,66 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# MacOS files
+.DS_Store
+
+# VS Code config
+.vscode/
+
+# PyCharm config
+.idea/
+
+# Log files
+*.log
+
+# Image cache or generated media
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Knight icon if not from repo
+knight.png
+
+# Python eggs
+*.egg
+*.egg-info/
+dist/
+eggs/
+parts/
+bin/
+var/
+sdist/
+develop-eggs/
+
+# Test & coverage
+.coverage
+.tox/
+.nox/
+pytest_cache/
+htmlcov/
+.coverage.*
+
+# Misc
+*.swp
+*.bak
+*.tmp
