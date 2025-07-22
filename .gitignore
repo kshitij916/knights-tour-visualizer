@@ -32,11 +32,6 @@ build/
 # Log files
 *.log
 
-# Image cache or generated media
-*.png
-*.jpg
-*.jpeg
-*.gif
 
 # Knight icon if not from repo
 knight.png
